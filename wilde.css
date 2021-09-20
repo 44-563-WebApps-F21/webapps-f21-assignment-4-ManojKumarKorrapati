@@ -1,0 +1,61 @@
+/* Styling sheet for Oscar Play*/
+.scene{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.stage:hover{
+    color: red;
+    background-color: lightgoldenrodyellow;
+    opacity: 0.5;
+}
+.speach{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.illingworth{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.gerald{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.hunstanton{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.arbuthnot{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.archdeacon{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.caroline{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.allonby{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.stutfield{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
+.kelvil{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
