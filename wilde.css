@@ -1,4 +1,8 @@
 /* Styling sheet for Oscar Play*/
+/* Adding Mouse hovering*/
+*{    
+    cursor: pointer;   
+}
 .scene{
     color: blue;
     font-family: 'Times New Roman', Times, serif;
