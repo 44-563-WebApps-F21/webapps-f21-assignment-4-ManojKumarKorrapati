@@ -59,3 +59,15 @@
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
 }
+/*Table Styling*/
+table { border: solid rgb(0, 87, 128) 3px;
+    border-collapse: collapse;
+    width: 75%;}    
+td {border: solid 1px;
+    text-align: left;
+    padding: 10px;}
+th {border: solid 1px;
+    text-align: center;
+    padding: 15px;}
+tr {background-color: mediumturquoise ;}
+tr:nth-child(even) {background-color: rgb(238, 227, 227);}
