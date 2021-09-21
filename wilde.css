@@ -1,4 +1,9 @@
 /* Styling sheet for Oscar Play*/
+.name{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: large;
+}
 .name:hover{
     color: black;
     font-family: 'Times New Roman', Times, serif;
@@ -11,6 +16,11 @@
     color: blue;
     font-family: 'Times New Roman', Times, serif;
     font-size: large;
+}
+.stage{
+    color: rosybrown;
+    background-color: lightgoldenrodyellow;
+    opacity: 0.5;
 }
 .stage:hover{
     color: red;
