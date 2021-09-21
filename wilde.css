@@ -124,6 +124,6 @@ li a {
     padding: 8px;
     background-color: #dddddd;
 }
-li a:hover:not(.active) {
+li a:hover {
     background-color: #111;
 }
